@@ -1,0 +1,5 @@
+wordAmount:3581
+currIndex:1016
+testHistory:173, 3375, 1614, 1030, 1016
+wrongWords:
+testAmount:5
